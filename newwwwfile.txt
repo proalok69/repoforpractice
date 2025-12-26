@@ -1,1 +1,2 @@
 hey this is the second file ive created via launching server from aws ........with ubuntu distribution
+ive made some changes in this file while being in github ...to check some cmds
